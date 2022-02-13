@@ -1,4 +1,4 @@
-# BPHC Course Reviews
+# Typescript Express Starter
 
 The application is a simple Express.JS app.
 
