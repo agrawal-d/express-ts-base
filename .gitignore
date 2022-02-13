@@ -2,6 +2,7 @@
 
 private/
 build/
+config.json
 
 # Logs
 logs
