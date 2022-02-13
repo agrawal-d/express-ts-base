@@ -3,6 +3,7 @@
 private/
 build/
 config.json
+launcher.sh
 
 # Logs
 logs
